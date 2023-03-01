@@ -1,0 +1,38 @@
+* {
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2 {
+    font-size: 2rem;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+div {
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    max-width: 50%;
+    text-align: center;
+    border: none;
+    background-color: black;
+    font-size: 2rem;
+}
